@@ -4,7 +4,7 @@
     slide(v-for="i in 4" :key="i")
       .container
         .row.py-5
-          .d-none.d-sm-block.col-md-auto.i-quotes__icon.mr-5.text-center.mb-4.mb-md-0
+          .d-none.d-md-block.col-md-auto.i-quotes__icon.mr-5.text-center.mb-4.mb-md-0
             img.img-fluid(src="~assets/images/icons/quote.png")
           .col-12.col-md.d-flex.flex-column.justify-content-between
             .i-quotes__desc “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
